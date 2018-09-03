@@ -150,6 +150,11 @@ h3, h2 {
   margin-top: 70px;
 }
 
+.mtgrpg {
+  height: 200px;
+  margin-top: 70px;
+}
+
 .work:nth-child(even) {
   margin-right: 40px;
 }
