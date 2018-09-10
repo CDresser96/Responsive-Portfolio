@@ -155,6 +155,11 @@ h3, h2 {
   margin-top: 70px;
 }
 
+.powerpuff {
+  height: 200px;
+  margin-top: 10px;
+}
+
 .work:nth-child(even) {
   margin-right: 40px;
 }
